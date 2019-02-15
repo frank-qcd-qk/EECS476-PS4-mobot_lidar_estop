@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/frank/ros_ws/devel/include",
+        "/opt/ros/kinetic/include",
+        "/home/frank/ros_ws/src/CXQ41_Mobot_Lidar_Estop/cxq41_advanced_lidar_alarm/include",
+        "/home/frank/ros_ws/src/CXQ41_Mobot_Lidar_Estop/traj_builder/include",
+        "/usr/include"
+      ],
+      "name": "Linux"
+    }
+  ]
+}
